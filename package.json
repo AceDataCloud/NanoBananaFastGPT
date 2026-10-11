@@ -1,6 +1,6 @@
 {
   "name": "fastgpt-plugin-acedata-nano-banana",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ace Data Cloud Nano Banana tools for FastGPT",
   "type": "module",
   "main": "dist/index.js",
