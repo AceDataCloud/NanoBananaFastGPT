@@ -97,7 +97,7 @@ const batchHandler = createToolHandler({
 export default defineToolSet({
   manifest: {
     pluginId: 'acedataNanoBanana',
-    version: '0.2.0',
+    version: '0.2.1',
     name: { en: 'Ace Data Cloud Nano Banana', 'zh-CN': 'Ace Data Cloud Nano Banana 图像' },
     description: {
       en: 'Generate image with Nano Banana through Ace Data Cloud and retrieve the same task.',
