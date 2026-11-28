@@ -12,7 +12,7 @@
 
 [FastGPT 官方插件市场](https://cloud.fastgpt.io/config/tool/marketplace) · [本插件官方收录审核](https://github.com/labring/fastgpt-community-plugins/pull/87)。当前候选尚未上架，审核链接不是安装按钮。
 
-新用户先注册并登录 Ace；Applications 中若没有 General application，先点 **Initialize General Application**。这里创建的是 Ace API Token，不是 FastGPT 登录凭据。
+新用户先注册并登录 Ace，然后在 Applications 打开**通用应用**。这里创建的是 Ace API Token，不是 FastGPT 登录凭据。
 
 1. 使用 FastGPT 4.15 或更新版本。当前尚未官方上架；批准后按服务名搜索并核对作者 **Ace Data Cloud**。现有安装包与校验文件在 [GitHub 正式版本](https://github.com/AceDataCloud/NanoBananaFastGPT/releases/tag/v0.2.2)。系统管理员可在插件管理上传；**团队管理员或所有者**在系统已开启“团队上传插件”时，也可从 **工具 → 添加插件 → 上传插件** 上传 .pkg，并在解析后确认安装。该开关也控制团队 Marketplace 安装，普通成员不能安装。团队与系统插件密钥独立。
 
