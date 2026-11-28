@@ -20,7 +20,7 @@ Third-party provider listing requires a separate cooperation application under t
 
 ### 2. Get an API key
 
-New account? Register and sign in first. If General application is missing, choose **Initialize General Application** in Applications. This token belongs to Ace Data Cloud, not your FastGPT login.
+New account? Register and sign in first. Open **General Application** in Applications. This token belongs to Ace Data Cloud, not your FastGPT login.
 
 Sign in to [Ace Data Cloud → Applications](https://platform.acedata.cloud/console/applications?utm_source=opensource&utm_medium=referral&utm_campaign=evergreen&utm_content=nanobananafastgpt_readme_api_key), open **General Application**, and confirm **Nano Banana** access, balance, and current price. Copy the key using icon **1** below; or select **2 Manage Keys → Create** for a separate FastGPT key. If **Allowed APIs** is enabled, include both /nano-banana/images and /nano-banana/tasks. In the FastGPT plugin configuration, paste only the key into **Ace Data Cloud API key**, without Bearer or quotes.
 
